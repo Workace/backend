@@ -191,3 +191,9 @@ Framework: NestJS
 | :-------- | :------- | :------------------------- |
 | `BearerToken` | `string` | **Obrigatório**. Token (ADMIN) |
 | `id` | `string` | **Obrigatório**. Id da categoria |
+
+
+## Autores
+
+- [@miguellrodrigues](https://github.com/miguellrodrigues)
+
