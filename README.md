@@ -5,7 +5,7 @@ Este é o projeto do Backend da empresa Workace
 
 Framework: NestJS
 
-
+* É necessário subir o PostgreSql e o Redis para executar o projeto
 
 ## API Reference
 
