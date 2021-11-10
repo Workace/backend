@@ -87,7 +87,7 @@ Framework: NestJS
 #### Retorna todas as publicações
 
 ```http
-  GET /api/publications
+  GET /api/publication
 ```
 
 | Parâmetro | Tipo     | Descrição                |
@@ -97,7 +97,7 @@ Framework: NestJS
 #### Retorna uma publicação pelo id
 
 ```http
-  GET /api/publications/${id}
+  GET /api/publication/${id}
 ```
 
 | Parâmetro | Tipo     | Descrição                |
@@ -109,7 +109,7 @@ Framework: NestJS
 #### Atualiza uma publicação pelo id
 
 ```http
-  PUT /api/publications/${id}
+  PUT /api/publication/${id}
 ```
 
 | Parâmetro | Tipo     | Descrição                |
@@ -126,7 +126,7 @@ Framework: NestJS
 #### Deleta uma publicação pelo id
 
 ```http
-  DELETE /api/publications/${id}
+  DELETE /api/publication/${id}
 ```
 
 | Parâmetro | Tipo     | Descrição                |
